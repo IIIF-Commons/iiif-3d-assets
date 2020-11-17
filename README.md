@@ -4,4 +4,6 @@
 
 __Table and Tea Service__
 
-https://iiif-3d-assets.netlify.com/collection/gltf/table-and-tea-service/scene.gltf
+https://iiif-3d-assets.netlify.app/collection/gltf/table-and-tea-service/scene.gltf
+
+demo: http://viewer-comparison.glitch.me/

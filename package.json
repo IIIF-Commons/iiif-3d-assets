@@ -1,0 +1,20 @@
+{
+  "name": "iiif-3d-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "biiif-cli": "^0.1.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiif-commons/iiif-3d-assets.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiif-commons/iiif-3d-assets/issues"
+  },
+  "homepage": "https://github.com/iiif-commons/iiif-3d-assets#readme"
+}

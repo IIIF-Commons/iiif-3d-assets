@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {
-    "biiif-cli": "^0.1.22"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iiif-commons/iiif-3d-assets.git"

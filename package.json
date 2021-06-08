@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "build": "npx biiif collection -u https://iiif-3d-assets.netlify.app"
+  },
   "dependencies": {},
   "repository": {
     "type": "git",

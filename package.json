@@ -6,7 +6,9 @@
   "scripts": {
     "build": "npx biiif collection -u https://iiif-3d-assets.netlify.app"
   },
-  "dependencies": {},
+  "dependencies": {
+    "biiif-cli": "1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iiif-commons/iiif-3d-assets.git"
